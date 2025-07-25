@@ -50,7 +50,6 @@ export default function Home() {
                                     </h3>
                                     <p className="mt-3 text-sm text-muted-foreground">
                                         {perk.description}
-                                        {/* test */}
                                     </p>
                                 </div>
                             </div>
