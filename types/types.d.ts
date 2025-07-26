@@ -1,3 +1,4 @@
+
 interface Perks {
     name: string;
     icon: LucideIcon;
@@ -22,3 +23,4 @@ interface NavItemProps {
     isOpen: boolean;
     isAnyOpen: boolean;
 }
+
